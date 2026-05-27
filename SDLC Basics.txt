@@ -1,0 +1,153 @@
+
+1. Software Engineering – Basics
+1.1 What is Software Engineering?
+Software Engineering is the systematic, disciplined, and measurable approach to the development, operation, and maintenance of software. It focuses on building software that is:
+
+Reliable and correct
+Efficient in performance
+Easy to maintain and enhance
+Scalable for future needs
+Delivered within time and budget constraints
+
+
+Key idea: Software engineering is not just coding; it is about applying engineering principles to software development.
+
+
+
+
+1.2 Software Development Life Cycle (SDLC)
+The Software Development Life Cycle defines the phases involved in developing software.
+1. Requirement Analysis
+
+Understanding customer and business needs
+Gathering functional and non-functional requirements
+Example: “The system should allow users to log in using email and password”
+2. Design
+
+High-level and low-level system design
+Architecture, database design, UI/UX design
+Decides how the system will work
+3. Implementation (Coding)
+
+Writing code based on design specifications
+Following coding standards and best practices
+4. Testing
+
+Verifying that the software works as expected
+Identifying and fixing defects
+Types of testing:Unit Testing
+Integration Testing
+System Testing
+User Acceptance Testing (UAT)
+5. Deployment
+
+Releasing the software to production or end users
+6. Maintenance
+
+Fixing bugs
+Improving performance
+Adding new features
+
+
+1.3 Key Software Engineering Principles
+
+Modularity: Breaking the system into smaller, manageable modules
+Reusability: Using existing components to reduce effort
+Maintainability: Software should be easy to modify and fix
+Scalability: Ability to handle increased users or data
+Documentation: Clear documentation for future reference
+
+
+1.4 Common Roles in Software Engineering
+
+Business Analyst (BA): Gathers and documents requirements
+Developer: Designs and writes code
+Tester / QA: Ensures software quality
+DevOps Engineer: Handles deployment and infrastructure
+Project Manager / Scrum Master: Manages timelines and process
+
+
+2. Agile Methodology
+2.1 What is Agile?
+Agile is a software development approach that emphasizes:
+
+Flexibility
+Customer collaboration
+Frequent delivery of working software
+Continuous improvement
+Instead of delivering everything at the end, Agile delivers software in small, usable increments.
+
+
+2.2 Why Agile Was Introduced
+Traditional models like Waterfall had limitations:
+
+Late customer feedback
+Difficulty in handling changes
+Long delivery cycles
+Agile addresses these by:
+
+Encouraging early and continuous feedback
+Welcoming changes even late in development
+Delivering value frequently
+
+
+2.3 Agile Manifesto – Core Values
+Agile is based on four core values:
+
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+
+
+The items on the right have value, but the items on the left are valued more.
+
+
+
+
+2.4 Agile Principles (Simplified)
+
+Deliver working software frequently
+Welcome changing requirements
+Close collaboration between business and development teams
+Self-organizing, motivated teams
+Continuous reflection and improvement
+
+
+2.5 Agile Process Flow
+
+Product BacklogList of features written as user stories
+Sprint PlanningSelecting backlog items for a sprint
+Sprint ExecutionDesign, development, and testing
+Daily Stand-up MeetingWhat was done yesterday?
+What will be done today?
+Any blockers?
+Sprint ReviewDemonstration of completed work
+Sprint RetrospectiveDiscuss improvements for the next sprint
+
+
+2.6 Scrum Framework (Popular Agile Framework)
+Scrum Roles
+
+Product Owner: Defines and prioritizes requirements
+Scrum Master: Facilitates Scrum practices
+Development Team: Builds the product
+Scrum Artifacts
+
+Product Backlog
+Sprint Backlog
+Increment (working software)
+
+
+2.7 Agile vs Waterfall
+
+Waterfall follows a linear, sequential approach
+Agile follows an iterative, incremental approach
+Agile is more flexible and customer-focused
+
+
+3. Incremental vs Iterative vs Agile (Quick Insight)
+
+Incremental = Delivery of features
+Iterative = Refinement/Enhancement  of features
+Agile = Combines both Incremental + Iterative, with strong customer collaboration
